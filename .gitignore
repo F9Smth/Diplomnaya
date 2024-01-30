@@ -163,4 +163,4 @@ cython_debug/
 Tutors/
 
 # VS Code
-.vscode
+.vscode/
