@@ -1,4 +1,9 @@
-aiogram
-asyncio
-setuptools
-wheel
+# Production dependencies
+aiogram==2.24
+asyncio==3.4.3
+
+# Development/testing dependencies
+
+# Optional dependencies 
+setuptools==65.5.0
+wheel==0.37.1

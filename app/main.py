@@ -1,6 +1,6 @@
 # main.py
 
-from src.bot import Bot 
+from src import Bot 
 
 bot = Bot()
 bot.run()
